@@ -1,13 +1,13 @@
-package com.shivang.jobappmicroservice;
+package com.shivang.companymicroservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JobappmicroserviceApplication {
+public class CompanymicroserviceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JobappmicroserviceApplication.class, args);
+		SpringApplication.run(CompanymicroserviceApplication.class, args);
 	}
 
 }

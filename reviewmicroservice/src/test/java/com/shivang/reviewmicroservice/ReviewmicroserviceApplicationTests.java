@@ -1,10 +1,10 @@
-package com.shivang.jobappmicroservice;
+package com.shivang.reviewmicroservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JobappmicroserviceApplicationTests {
+class ReviewmicroserviceApplicationTests {
 
 	@Test
 	void contextLoads() {
